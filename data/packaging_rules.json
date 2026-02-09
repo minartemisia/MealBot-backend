@@ -1,0 +1,25 @@
+{
+  "by_food_key": {
+    "cereals_oats_regular_and_quick_not_fortified_dry": {"type": "pack_grams", "pack_size_g": 500, "label": "500 g"},
+    "cereals_quaker_instant_oatmeal_raisins_dates_and_walnuts_dry": {"type": "pack_grams", "pack_size_g": 300, "label": "300 g"},
+    "cereals_ready_to_eat_quaker_sun_country_granola_with_almonds": {"type": "pack_grams", "pack_size_g": 500, "label": "500 g"},
+
+    "rice_brown_long_grain_raw": {"type": "pack_grams", "pack_size_g": 1000, "label": "1 kg"},
+    "quinoa_uncooked": {"type": "pack_grams", "pack_size_g": 500, "label": "500 g"},
+
+    "fish_tuna_light_canned_in_water_drained_solids": {"type": "pack_grams", "pack_size_g": 160, "label": "lattina 160 g"},
+    "oil_olive_salad_or_cooking": {"type": "pack_grams", "pack_size_g": 750, "label": "bottiglia 750 g"},
+    "seeds_chia_seeds_dried": {"type": "pack_grams", "pack_size_g": 200, "label": "200 g"},
+
+    "chicken_broilers_or_fryers_breast_meat_and_skin_raw": {"type": "pack_grams", "pack_size_g": 500, "label": "500 g"},
+    "fish_salmon_atlantic_wild_raw": {"type": "pack_grams", "pack_size_g": 400, "label": "400 g"},
+    "tofu_firm_prepared_with_calcium_sulfate_and_magnesium_chloride_nigari": {"type": "pack_grams", "pack_size_g": 400, "label": "400 g"},
+    "yogurt_plain_low_fat_12_grams_protein_per_8_ounce": {"type": "pack_grams", "pack_size_g": 500, "label": "500 g"},
+
+    "egg_whole_raw_fresh": {"type": "count", "unit_grams": 50, "pack_size": 6, "unit_label": "uova"},
+    "egg_white_raw_fresh": {"type": "count", "unit_grams": 33, "pack_size": 6, "unit_label": "albumi (equiv.)"}
+  },
+  "fallback": {
+    "note": "Modifica liberamente queste regole per adattarle alle confezioni del tuo supermercato. Puoi aggiungere qualsiasi food_key presente in recipes.json e nutrition.csv."
+  }
+}

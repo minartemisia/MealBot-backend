@@ -1,0 +1,1890 @@
+[
+  {
+    "recipe_id": "b1",
+    "title": "Porridge d'avena con banana e mirtilli",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "low_gluten",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "cereals_oats_regular_and_quick_not_fortified_dry",
+        "grams": 60
+      },
+      {
+        "food_key": "bananas_raw",
+        "grams": 120
+      },
+      {
+        "food_key": "blueberries_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "seeds_chia_seeds_dried",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 428.40000000000003,
+      "protein": 11.444,
+      "carbohydrates": 83.832,
+      "total_fat": 7.646,
+      "saturated_fat": 1.1558,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 14.54,
+      "folic_acid": 0.0,
+      "sodium": 7.199999999999999,
+      "calcium": 105.1,
+      "iron": 3.8579999999999997,
+      "magnesium": 153.5,
+      "manganese": 3.0431,
+      "niacin": 2.6904,
+      "phosphorus": 368.0,
+      "potassium": 749.1,
+      "riboflavin": 0.2304,
+      "selenium": 24.139999999999997,
+      "thiamin": 0.40480000000000005,
+      "vitamin_A": 125.4,
+      "vitamin_B6": 0.5419999999999999,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 18.36,
+      "vitamin_D": 0.0,
+      "zinc": 2.9500000000000006
+    }
+  },
+  {
+    "recipe_id": "b2",
+    "title": "Uova strapazzate con spinaci e avocado",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "low_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "egg_whole_raw_fresh",
+        "grams": 120
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 70
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 5
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 294.79999999999995,
+      "protein": 17.671999999999997,
+      "carbohydrates": 8.834999999999999,
+      "total_fat": 26.833999999999996,
+      "saturated_fat": 5.9554,
+      "caffiene": 0.0,
+      "cholesterol": 446.4,
+      "fiber": 5.89,
+      "folic_acid": 0.0,
+      "sodium": 279.4,
+      "calcium": 122.05,
+      "iron": 3.153,
+      "magnesium": 65.9,
+      "manganese": 0.6441999999999999,
+      "niacin": 1.7066,
+      "phosphorus": 296.4,
+      "potassium": 609.15,
+      "riboflavin": 0.7434,
+      "selenium": 37.68,
+      "thiamin": 0.1269,
+      "vitamin_A": 4270.2,
+      "vitamin_B6": 0.6271,
+      "vitamin_B12": 1.068,
+      "vitamin_C": 31.0,
+      "vitamin_D": 98.39999999999999,
+      "zinc": 2.3
+    }
+  },
+  {
+    "recipe_id": "b3",
+    "title": "Yogurt con mela e noci",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "contains_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "yogurt_plain_low_fat_12_grams_protein_per_8_ounce",
+        "grams": 200
+      },
+      {
+        "food_key": "apples_raw_with_skin",
+        "grams": 150
+      },
+      {
+        "food_key": "cereals_quaker_instant_oatmeal_raisins_dates_and_walnuts_dry",
+        "grams": 20
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 204.0,
+      "protein": 12.654,
+      "carbohydrates": 49.277,
+      "total_fat": 4.751,
+      "saturated_fat": 2.256,
+      "caffiene": 0.0,
+      "cholesterol": 12.0,
+      "fiber": 4.9799999999999995,
+      "folic_acid": 40.400000000000006,
+      "sodium": 244.7,
+      "calcium": 434.4,
+      "iron": 2.48,
+      "magnesium": 59.900000000000006,
+      "manganese": 0.5053000000000001,
+      "niacin": 2.7581,
+      "phosphorus": 363.7,
+      "potassium": 703.3,
+      "riboflavin": 0.6704,
+      "selenium": 9.879999999999999,
+      "thiamin": 0.2919,
+      "vitamin_A": 781.4,
+      "vitamin_B6": 0.39890000000000003,
+      "vitamin_B12": 1.12,
+      "vitamin_C": 8.66,
+      "vitamin_D": 2.0,
+      "zinc": 2.228
+    }
+  },
+  {
+    "recipe_id": "b4",
+    "title": "Frittata leggera albumi+uovo con pomodoro",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "low_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "egg_white_raw_fresh",
+        "grams": 180
+      },
+      {
+        "food_key": "egg_whole_raw_fresh",
+        "grams": 60
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 160
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 5
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 208.20000000000002,
+      "protein": 28.564,
+      "carbohydrates": 7.970000000000001,
+      "total_fat": 11.332,
+      "saturated_fat": 2.6108,
+      "caffiene": 0.0,
+      "cholesterol": 223.2,
+      "fiber": 1.92,
+      "folic_acid": 0.0,
+      "sodium": 392.1,
+      "calcium": 62.25,
+      "iron": 1.654,
+      "magnesium": 44.6,
+      "manganese": 0.219,
+      "niacin": 1.1844000000000001,
+      "phosphorus": 184.20000000000002,
+      "potassium": 755.45,
+      "riboflavin": 1.0948,
+      "selenium": 54.42,
+      "thiamin": 0.09040000000000001,
+      "vitamin_A": 1656.8000000000002,
+      "vitamin_B6": 0.23900000000000002,
+      "vitamin_B12": 0.6960000000000001,
+      "vitamin_C": 21.92,
+      "vitamin_D": 49.199999999999996,
+      "zinc": 1.1
+    }
+  },
+  {
+    "recipe_id": "b5",
+    "title": "Overnight oats con mela e mandorle",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "low_gluten",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "cereals_oats_regular_and_quick_not_fortified_dry",
+        "grams": 55
+      },
+      {
+        "food_key": "apples_raw_with_skin",
+        "grams": 180
+      },
+      {
+        "food_key": "seeds_chia_seeds_dried",
+        "grams": 12
+      },
+      {
+        "food_key": "cereals_ready_to_eat_quaker_sun_country_granola_with_almonds",
+        "grams": 15
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 360.37,
+      "protein": 11.450800000000001,
+      "carbohydrates": 77.2274,
+      "total_fat": 10.2838,
+      "saturated_fat": 1.3935000000000002,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 14.783,
+      "folic_acid": 0.0,
+      "sodium": 11.97,
+      "calcium": 128.02,
+      "iron": 4.1324000000000005,
+      "magnesium": 138.75,
+      "manganese": 2.7882600000000006,
+      "niacin": 1.98465,
+      "phosphorus": 392.6000000000001,
+      "potassium": 498.74,
+      "riboflavin": 0.17945,
+      "selenium": 25.114,
+      "thiamin": 0.4045000000000001,
+      "vitamin_A": 103.68,
+      "vitamin_B6": 0.1468,
+      "vitamin_B12": 0.0105,
+      "vitamin_C": 8.487,
+      "vitamin_D": 0.0,
+      "zinc": 2.9236
+    }
+  },
+  {
+    "recipe_id": "b6",
+    "title": "Pudding di chia con yogurt e mirtilli",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "contains_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "seeds_chia_seeds_dried",
+        "grams": 25
+      },
+      {
+        "food_key": "yogurt_plain_low_fat_12_grams_protein_per_8_ounce",
+        "grams": 180
+      },
+      {
+        "food_key": "blueberries_raw",
+        "grams": 120
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 303.3,
+      "protein": 14.473,
+      "carbohydrates": 40.589999999999996,
+      "total_fat": 10.871,
+      "saturated_fat": 2.6661,
+      "cholesterol": 10.8,
+      "fiber": 11.48,
+      "sodium": 131.2,
+      "calcium": 494.35,
+      "iron": 2.4099999999999997,
+      "magnesium": 121.55,
+      "manganese": 1.0911499999999998,
+      "niacin": 2.9143,
+      "phosphorus": 488.59999999999997,
+      "potassium": 615.35,
+      "riboflavin": 0.4769,
+      "selenium": 19.860000000000003,
+      "thiamin": 0.27859999999999996,
+      "vitamin_A": 170.1,
+      "vitamin_B12": 1.0080000000000002,
+      "vitamin_C": 13.479999999999999,
+      "zinc": 2.939,
+      "caffiene": 0.0,
+      "folic_acid": 0.0,
+      "vitamin_B6": 0.1506,
+      "vitamin_D": 1.8
+    }
+  },
+  {
+    "recipe_id": "b7",
+    "title": "Omelette con broccoli e pomodoro",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "low_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "egg_whole_raw_fresh",
+        "grams": 140
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 120
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 120
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 5
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 262.6,
+      "protein": 22.024,
+      "carbohydrates": 13.643999999999998,
+      "total_fat": 18.997999999999998,
+      "saturated_fat": 5.1472,
+      "caffiene": 0.0,
+      "cholesterol": 520.8,
+      "fiber": 4.5600000000000005,
+      "folic_acid": 0.0,
+      "sodium": 244.49999999999997,
+      "calcium": 146.85,
+      "iron": 3.6779999999999995,
+      "magnesium": 55.2,
+      "manganese": 0.42800000000000005,
+      "niacin": 1.5846,
+      "phosphorus": 385.2,
+      "potassium": 856.8499999999999,
+      "riboflavin": 0.803,
+      "selenium": 45.98,
+      "thiamin": 0.1856,
+      "vitamin_A": 2503.2,
+      "vitamin_B6": 0.5439999999999999,
+      "vitamin_B12": 1.246,
+      "vitamin_C": 123.48,
+      "vitamin_D": 114.8,
+      "zinc": 2.502
+    }
+  },
+  {
+    "recipe_id": "b8",
+    "title": "Uova e avocado con pomodori",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "low_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "egg_whole_raw_fresh",
+        "grams": 120
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 90
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 180
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 348.0,
+      "protein": 18.456,
+      "carbohydrates": 15.543000000000001,
+      "total_fat": 24.966,
+      "saturated_fat": 5.715,
+      "caffiene": 0.0,
+      "cholesterol": 446.4,
+      "fiber": 8.190000000000001,
+      "folic_acid": 0.0,
+      "sodium": 185.70000000000002,
+      "calcium": 96.0,
+      "iron": 3.0810000000000004,
+      "magnesium": 60.3,
+      "manganese": 0.36660000000000004,
+      "niacin": 2.7234,
+      "phosphorus": 327.59999999999997,
+      "potassium": 1028.7,
+      "riboflavin": 0.6996,
+      "selenium": 37.199999999999996,
+      "thiamin": 0.1749,
+      "vitamin_A": 2278.8,
+      "vitamin_B6": 0.5793,
+      "vitamin_B12": 1.068,
+      "vitamin_C": 33.66,
+      "vitamin_D": 98.39999999999999,
+      "zinc": 2.43
+    }
+  },
+  {
+    "recipe_id": "b9",
+    "title": "Porridge d'avena con mela e noci",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "low_gluten",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "cereals_oats_regular_and_quick_not_fortified_dry",
+        "grams": 60
+      },
+      {
+        "food_key": "apples_raw_with_skin",
+        "grams": 170
+      },
+      {
+        "food_key": "cereals_quaker_instant_oatmeal_raisins_dates_and_walnuts_dry",
+        "grams": 18
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 315.8,
+      "protein": 9.919599999999999,
+      "carbohydrates": 77.1308,
+      "total_fat": 5.4574,
+      "saturated_fat": 0.9062,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 11.382000000000001,
+      "folic_acid": 36.36,
+      "sodium": 98.17999999999999,
+      "calcium": 94.86,
+      "iron": 4.68,
+      "magnesium": 107.86,
+      "manganese": 2.6378199999999996,
+      "niacin": 2.9839399999999996,
+      "phosphorus": 317.98,
+      "potassium": 466.42,
+      "riboflavin": 0.32026,
+      "selenium": 20.291999999999998,
+      "thiamin": 0.46546,
+      "vitamin_A": 630.3599999999999,
+      "vitamin_B6": 0.34516,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 7.9639999999999995,
+      "vitamin_D": 0.0,
+      "zinc": 2.6012000000000004
+    }
+  },
+  {
+    "recipe_id": "b10",
+    "title": "Yogurt con banana e chia",
+    "meal_types": [
+      "breakfast"
+    ],
+    "tags": [
+      "gluten_free",
+      "contains_dairy",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "yogurt_plain_low_fat_12_grams_protein_per_8_ounce",
+        "grams": 220
+      },
+      {
+        "food_key": "bananas_raw",
+        "grams": 140
+      },
+      {
+        "food_key": "seeds_chia_seeds_dried",
+        "grams": 12
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 321.52000000000004,
+      "protein": 15.0608,
+      "carbohydrates": 52.5184,
+      "total_fat": 7.5608,
+      "saturated_fat": 2.7564,
+      "caffiene": 0.0,
+      "cholesterol": 13.200000000000001,
+      "fiber": 7.768,
+      "folic_acid": 0.0,
+      "sodium": 157.32,
+      "calcium": 485.32000000000005,
+      "iron": 1.4664,
+      "magnesium": 115.4,
+      "manganese": 0.71356,
+      "niacin": 2.2413999999999996,
+      "phosphorus": 450.8,
+      "potassium": 1064.84,
+      "riboflavin": 0.5934,
+      "selenium": 15.283999999999999,
+      "thiamin": 0.21459999999999999,
+      "vitamin_A": 208.28,
+      "vitamin_B6": 0.6215999999999999,
+      "vitamin_B12": 1.2320000000000002,
+      "vitamin_C": 14.131999999999998,
+      "vitamin_D": 2.2,
+      "zinc": 2.7176
+    }
+  },
+  {
+    "recipe_id": "m1",
+    "title": "Bowl quinoa, ceci, spinaci e pomodoro",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 70
+      },
+      {
+        "food_key": "chickpeas_garbanzo_beans_bengal_gram_mature_seeds_cooked_boiled_without_salt",
+        "grams": 150
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 150
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 541.8,
+      "protein": 25.694,
+      "carbohydrates": 93.877,
+      "total_fat": 18.594,
+      "saturated_fat": 2.3461,
+      "cholesterol": 0.0,
+      "fiber": 19.299999999999997,
+      "folic_acid": 0.0,
+      "sodium": 125.7,
+      "calcium": 167.9,
+      "iron": 8.634999999999998,
+      "magnesium": 257.59999999999997,
+      "manganese": 3.6502999999999997,
+      "niacin": 3.1439999999999997,
+      "phosphorus": 630.3,
+      "potassium": 1290.1999999999998,
+      "riboflavin": 0.4496,
+      "selenium": 12.06,
+      "thiamin": 0.5135000000000001,
+      "vitamin_A": 4819.8,
+      "vitamin_B6": 0.9126,
+      "vitamin_B12": 0.0,
+      "vitamin_D": 0.0,
+      "zinc": 5.024,
+      "caffiene": 0.0,
+      "vitamin_C": 46.5
+    }
+  },
+  {
+    "recipe_id": "m2",
+    "title": "Riso integrale con pollo e broccoli",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "chicken_broilers_or_fryers_breast_meat_and_skin_raw",
+        "grams": 160
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 200
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 639.2,
+      "protein": 45.352000000000004,
+      "carbohydrates": 75.072,
+      "total_fat": 27.875999999999998,
+      "saturated_fat": 6.182,
+      "caffiene": 0.0,
+      "cholesterol": 102.4,
+      "fiber": 8.0,
+      "folic_acid": 0.0,
+      "sodium": 172.6,
+      "calcium": 130.1,
+      "iron": 3.876,
+      "magnesium": 196.4,
+      "manganese": 3.4432,
+      "niacin": 21.203599999999998,
+      "phosphorus": 676.8000000000001,
+      "potassium": 1162.5,
+      "riboflavin": 0.4444,
+      "selenium": 50.28,
+      "thiamin": 0.5636,
+      "vitamin_A": 1378.8,
+      "vitamin_B6": 1.6052,
+      "vitamin_B12": 0.544,
+      "vitamin_C": 178.4,
+      "vitamin_D": 25.6,
+      "zinc": 3.716
+    }
+  },
+  {
+    "recipe_id": "m3",
+    "title": "Salmone al forno con carote e spinaci",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_salmon_atlantic_wild_raw",
+        "grams": 170
+      },
+      {
+        "food_key": "carrots_raw",
+        "grams": 220
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 342.8,
+      "protein": 36.974000000000004,
+      "carbohydrates": 23.076,
+      "total_fat": 21.466,
+      "saturated_fat": 3.1555,
+      "cholesterol": 93.5,
+      "fiber": 7.36,
+      "folic_acid": 0.0,
+      "sodium": 330.8,
+      "calcium": 139.5,
+      "iron": 2.716,
+      "magnesium": 106.9,
+      "manganese": 0.853,
+      "niacin": 15.9246,
+      "phosphorus": 439.4,
+      "potassium": 1641.1,
+      "riboflavin": 0.8776,
+      "selenium": 62.83,
+      "thiamin": 0.5614,
+      "vitamin_A": 40341.200000000004,
+      "vitamin_B6": 1.9374,
+      "vitamin_B12": 5.406,
+      "vitamin_C": 36.980000000000004,
+      "zinc": 1.9200000000000002,
+      "caffiene": 0.0,
+      "vitamin_D": 0.0
+    }
+  },
+  {
+    "recipe_id": "m4",
+    "title": "Tofu saltato con broccoli e riso",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "tofu_firm_prepared_with_calcium_sulfate_and_magnesium_chloride_nigari",
+        "grams": 220
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 220
+      },
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 70
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 487.8,
+      "protein": 29.78,
+      "carbohydrates": 72.39399999999999,
+      "total_fat": 22.032000000000004,
+      "saturated_fat": 3.774,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 10.15,
+      "folic_acid": 0.0,
+      "sodium": 104.10000000000002,
+      "calcium": 561.8000000000001,
+      "iron": 6.2330000000000005,
+      "magnesium": 227.7,
+      "manganese": 4.4571,
+      "niacin": 5.1917,
+      "phosphorus": 644.5000000000001,
+      "potassium": 1177.0,
+      "riboflavin": 0.4611,
+      "selenium": 43.66,
+      "thiamin": 0.5689,
+      "vitamin_A": 1370.6000000000001,
+      "vitamin_B6": 0.8975,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 196.68,
+      "vitamin_D": 0.0,
+      "zinc": 4.142
+    }
+  },
+  {
+    "recipe_id": "m5",
+    "title": "Insalata di tonno, avocado e pomodori",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_tuna_light_canned_in_water_drained_solids",
+        "grams": 160
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 90
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 220
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 60
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "protein": 35.74,
+      "carbohydrates": 17.735,
+      "total_fat": 25.29,
+      "saturated_fat": 3.7126,
+      "caffiene": 0.0,
+      "cholesterol": 57.6,
+      "fiber": 9.57,
+      "folic_acid": 0.0,
+      "sodium": 490.70000000000005,
+      "calcium": 94.89999999999999,
+      "iron": 4.233,
+      "magnesium": 110.5,
+      "manganese": 0.7924,
+      "niacin": 19.3886,
+      "phosphorus": 338.8,
+      "potassium": 1322.4,
+      "riboflavin": 0.37120000000000003,
+      "selenium": 113.74,
+      "thiamin": 0.2137,
+      "vitamin_A": 4695.200000000001,
+      "vitamin_B6": 1.1001,
+      "vitamin_B12": 4.08,
+      "vitamin_C": 57.14,
+      "vitamin_D": 75.2,
+      "zinc": 2.282,
+      "calories": 192.0
+    }
+  },
+  {
+    "recipe_id": "m6",
+    "title": "Zuppa di lenticchie con spinaci",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg",
+      "batch"
+    ],
+    "ingredients": [
+      {
+        "food_key": "lentils_mature_seeds_cooked_boiled_without_salt",
+        "grams": 260
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 90
+      },
+      {
+        "food_key": "onions_raw",
+        "grams": 60
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 338.20000000000005,
+      "protein": 25.462,
+      "carbohydrates": 60.192,
+      "total_fat": 11.228,
+      "saturated_fat": 1.5726,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 22.910000000000004,
+      "folic_acid": 0.0,
+      "sodium": 124.80000000000001,
+      "calcium": 115.49999999999999,
+      "iron": 9.56,
+      "magnesium": 134.70000000000002,
+      "manganese": 1.9369,
+      "niacin": 3.2756000000000003,
+      "phosphorus": 510.59999999999997,
+      "potassium": 1164.1,
+      "riboflavin": 0.323,
+      "selenium": 8.209999999999999,
+      "thiamin": 0.503,
+      "vitamin_A": 3982.0,
+      "vitamin_B6": 0.8083999999999999,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 35.339999999999996,
+      "vitamin_D": 0.0,
+      "zinc": 3.746
+    }
+  },
+  {
+    "recipe_id": "m7",
+    "title": "Quinoa con salmone e avocado",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 70
+      },
+      {
+        "food_key": "fish_salmon_atlantic_wild_raw",
+        "grams": 150
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 80
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 60
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 606.9999999999999,
+      "protein": 42.144,
+      "carbohydrates": 53.23599999999999,
+      "total_fat": 35.607,
+      "saturated_fat": 5.0665000000000004,
+      "cholesterol": 82.5,
+      "fiber": 11.16,
+      "folic_acid": 0.0,
+      "sodium": 153.29999999999998,
+      "calcium": 95.39999999999999,
+      "iron": 5.375000000000001,
+      "magnesium": 227.99999999999997,
+      "manganese": 1.9440999999999997,
+      "niacin": 14.544400000000001,
+      "phosphorus": 678.3,
+      "potassium": 1595.1999999999998,
+      "riboflavin": 0.9746,
+      "selenium": 61.440000000000005,
+      "thiamin": 0.6686,
+      "vitamin_A": 2826.6,
+      "vitamin_B6": 1.9558999999999997,
+      "vitamin_B12": 4.7700000000000005,
+      "vitamin_D": 0.0,
+      "zinc": 3.87,
+      "vitamin_C": 26.0,
+      "caffiene": 0.0
+    }
+  },
+  {
+    "recipe_id": "m8",
+    "title": "Riso integrale con ceci e broccoli",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg",
+      "batch"
+    ],
+    "ingredients": [
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 75
+      },
+      {
+        "food_key": "chickpeas_garbanzo_beans_bengal_gram_mature_seeds_cooked_boiled_without_salt",
+        "grams": 180
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 220
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 647.5,
+      "protein": 28.107,
+      "carbohydrates": 121.894,
+      "total_fat": 17.666,
+      "saturated_fat": 2.3888,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 22.025,
+      "folic_acid": 0.0,
+      "sodium": 90.65000000000002,
+      "calcium": 208.95000000000002,
+      "iron": 7.9665,
+      "magnesium": 239.85000000000002,
+      "manganese": 5.12325,
+      "niacin": 6.170850000000001,
+      "phosphorus": 697.3500000000001,
+      "potassium": 1386.35,
+      "riboflavin": 0.44055,
+      "selenium": 29.709999999999997,
+      "thiamin": 0.6657500000000001,
+      "vitamin_A": 1419.2,
+      "vitamin_B6": 1.01695,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 198.58,
+      "vitamin_D": 0.0,
+      "zinc": 5.171
+    }
+  },
+  {
+    "recipe_id": "m9",
+    "title": "Pollo con quinoa e pomodori",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chicken_broilers_or_fryers_breast_meat_and_skin_raw",
+        "grams": 170
+      },
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 65
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 220
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 571.2,
+      "protein": 46.559,
+      "carbohydrates": 50.262,
+      "total_fat": 30.110500000000002,
+      "saturated_fat": 6.4233,
+      "caffiene": 0.0,
+      "cholesterol": 108.8,
+      "fiber": 7.1899999999999995,
+      "folic_acid": 0.0,
+      "sodium": 121.55,
+      "calcium": 71.35,
+      "iron": 4.878500000000001,
+      "magnesium": 194.75,
+      "manganese": 1.60285,
+      "niacin": 19.138399999999997,
+      "phosphorus": 645.65,
+      "potassium": 1261.45,
+      "riboflavin": 0.39300000000000007,
+      "selenium": 33.745000000000005,
+      "thiamin": 0.4225,
+      "vitamin_A": 1982.8000000000002,
+      "vitamin_B6": 1.39355,
+      "vitamin_B12": 0.5780000000000001,
+      "vitamin_C": 30.14,
+      "vitamin_D": 27.2,
+      "zinc": 3.749
+    }
+  },
+  {
+    "recipe_id": "m10",
+    "title": "Tofu e spinaci con quinoa",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "tofu_firm_prepared_with_calcium_sulfate_and_magnesium_chloride_nigari",
+        "grams": 220
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 120
+      },
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 70
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 428.4,
+      "protein": 29.701999999999998,
+      "carbohydrates": 51.629999999999995,
+      "total_fat": 23.663,
+      "saturated_fat": 3.8120000000000003,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 8.68,
+      "folic_acid": 0.0,
+      "sodium": 186.1,
+      "calcium": 544.8000000000001,
+      "iron": 7.757000000000001,
+      "magnesium": 266.09999999999997,
+      "manganese": 3.5648999999999997,
+      "niacin": 1.8861999999999999,
+      "phosphorus": 619.7,
+      "potassium": 875.8000000000001,
+      "riboflavin": 0.5172,
+      "selenium": 28.57,
+      "thiamin": 0.432,
+      "vitamin_A": 5289.8,
+      "vitamin_B6": 0.8618999999999999,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 36.44,
+      "vitamin_D": 0.0,
+      "zinc": 4.452
+    }
+  },
+  {
+    "recipe_id": "m11",
+    "title": "Salmone con riso integrale e broccoli",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_salmon_atlantic_wild_raw",
+        "grams": 160
+      },
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 75
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 200
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 572.7,
+      "protein": 43.339,
+      "carbohydrates": 71.21,
+      "total_fat": 23.073999999999998,
+      "saturated_fat": 3.4664,
+      "cholesterol": 88.0,
+      "fiber": 7.825,
+      "folic_acid": 0.0,
+      "sodium": 141.85,
+      "calcium": 130.54999999999998,
+      "iron": 3.8985000000000003,
+      "magnesium": 195.65,
+      "manganese": 3.2528499999999996,
+      "niacin": 17.67225,
+      "phosphorus": 701.75,
+      "potassium": 1583.35,
+      "riboflavin": 0.9117500000000001,
+      "selenium": 80.95,
+      "thiamin": 0.80435,
+      "vitamin_A": 1310.0,
+      "vitamin_B6": 2.04055,
+      "vitamin_B12": 5.088000000000001,
+      "vitamin_C": 178.4,
+      "zinc": 3.359,
+      "caffiene": 0.0,
+      "vitamin_D": 0.0
+    }
+  },
+  {
+    "recipe_id": "m12",
+    "title": "Tonno con quinoa e pomodori",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_tuna_light_canned_in_water_drained_solids",
+        "grams": 160
+      },
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 70
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 200
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "protein": 42.748,
+      "carbohydrates": 52.69199999999999,
+      "total_fat": 16.185000000000002,
+      "saturated_fat": 2.2686,
+      "caffiene": 0.0,
+      "cholesterol": 57.6,
+      "fiber": 7.299999999999999,
+      "folic_acid": 0.0,
+      "sodium": 408.90000000000003,
+      "calcium": 80.19999999999999,
+      "iron": 6.4030000000000005,
+      "magnesium": 196.7,
+      "manganese": 1.6814999999999998,
+      "niacin": 18.4696,
+      "phosphorus": 590.3,
+      "potassium": 1154.6,
+      "riboflavin": 0.39499999999999996,
+      "selenium": 118.91,
+      "thiamin": 0.374,
+      "vitamin_A": 1767.0,
+      "vitamin_B6": 1.0113,
+      "vitamin_B12": 4.08,
+      "vitamin_C": 27.4,
+      "vitamin_D": 75.2,
+      "zinc": 3.614,
+      "calories": 293.59999999999997
+    }
+  },
+  {
+    "recipe_id": "m13",
+    "title": "Ceci e spinaci con avocado",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chickpeas_garbanzo_beans_bengal_gram_mature_seeds_cooked_boiled_without_salt",
+        "grams": 220
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 120
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 70
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 489.6,
+      "protein": 22.692,
+      "carbohydrates": 69.295,
+      "total_fat": 26.2,
+      "saturated_fat": 3.4992,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 23.21,
+      "folic_acid": 0.0,
+      "sodium": 176.5,
+      "calcium": 185.9,
+      "iron": 7.759,
+      "magnesium": 172.7,
+      "manganese": 3.1322000000000005,
+      "niacin": 2.9737999999999998,
+      "phosphorus": 439.6,
+      "potassium": 1135.8,
+      "riboflavin": 0.38559999999999994,
+      "selenium": 9.26,
+      "thiamin": 0.3501,
+      "vitamin_A": 5441.599999999999,
+      "vitamin_B6": 0.8505,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 45.86,
+      "vitamin_D": 0.0,
+      "zinc": 4.2700000000000005
+    }
+  },
+  {
+    "recipe_id": "m14",
+    "title": "Lenticchie con riso integrale",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg",
+      "batch"
+    ],
+    "ingredients": [
+      {
+        "food_key": "lentils_mature_seeds_cooked_boiled_without_salt",
+        "grams": 260
+      },
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 70
+      },
+      {
+        "food_key": "onions_raw",
+        "grams": 50
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 580.6,
+      "protein": 29.56,
+      "carbohydrates": 111.076,
+      "total_fat": 13.082,
+      "saturated_fat": 1.9484,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 23.840000000000003,
+      "folic_acid": 0.0,
+      "sodium": 12.299999999999999,
+      "calcium": 77.1,
+      "iron": 9.848,
+      "magnesium": 198.7,
+      "manganese": 3.9689999999999994,
+      "niacin": 6.3777,
+      "phosphorus": 715.6,
+      "potassium": 1188.6,
+      "riboflavin": 0.2684,
+      "selenium": 23.909999999999997,
+      "thiamin": 0.7431000000000001,
+      "vitamin_A": 21.8,
+      "vitamin_B6": 0.8791,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 7.6000000000000005,
+      "vitamin_D": 0.0,
+      "zinc": 4.801
+    }
+  },
+  {
+    "recipe_id": "m15",
+    "title": "Pollo con spinaci e pomodori",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chicken_broilers_or_fryers_breast_meat_and_skin_raw",
+        "grams": 180
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 140
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 200
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 365.20000000000005,
+      "protein": 41.39,
+      "carbohydrates": 11.280000000000001,
+      "total_fat": 27.330000000000002,
+      "saturated_fat": 6.2696000000000005,
+      "caffiene": 0.0,
+      "cholesterol": 115.2,
+      "fiber": 4.5,
+      "folic_acid": 0.0,
+      "sodium": 305.59999999999997,
+      "calcium": 121.09999999999998,
+      "iron": 3.048,
+      "magnesium": 121.6,
+      "manganese": 1.155,
+      "niacin": 19.722399999999997,
+      "phosphorus": 400.4,
+      "potassium": 1052.1,
+      "riboflavin": 0.373,
+      "selenium": 30.860000000000003,
+      "thiamin": 0.2434,
+      "vitamin_A": 7975.4,
+      "vitamin_B6": 1.5395999999999999,
+      "vitamin_B12": 0.6120000000000001,
+      "vitamin_C": 69.4,
+      "vitamin_D": 28.8,
+      "zinc": 2.312
+    }
+  },
+  {
+    "recipe_id": "m16",
+    "title": "Tofu con carote e broccoli",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "tofu_firm_prepared_with_calcium_sulfate_and_magnesium_chloride_nigari",
+        "grams": 240
+      },
+      {
+        "food_key": "carrots_raw",
+        "grams": 200
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 200
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 318.0,
+      "protein": 27.156,
+      "carbohydrates": 36.496,
+      "total_fat": 21.228,
+      "saturated_fat": 3.603999999999999,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 12.96,
+      "folic_acid": 0.0,
+      "sodium": 233.0,
+      "calcium": 642.5,
+      "iron": 5.9799999999999995,
+      "magnesium": 154.8,
+      "manganese": 2.206,
+      "niacin": 3.4864,
+      "phosphorus": 492.4,
+      "potassium": 1627.3,
+      "riboflavin": 0.5012,
+      "selenium": 28.96,
+      "thiamin": 0.41800000000000004,
+      "vitamin_A": 34658.0,
+      "vitamin_B6": 0.7964,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 190.68,
+      "vitamin_D": 0.0,
+      "zinc": 3.2919999999999994
+    }
+  },
+  {
+    "recipe_id": "m17",
+    "title": "Salmone con pomodori e spinaci",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_salmon_atlantic_wild_raw",
+        "grams": 170
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 250
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 90
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 299.0,
+      "protein": 37.278000000000006,
+      "carbohydrates": 11.975,
+      "total_fat": 21.458,
+      "saturated_fat": 3.1473,
+      "cholesterol": 93.5,
+      "fiber": 4.35,
+      "folic_acid": 0.0,
+      "sodium": 204.5,
+      "calcium": 97.69999999999999,
+      "iron": 2.8110000000000004,
+      "magnesium": 111.9,
+      "manganese": 0.8873000000000001,
+      "niacin": 15.296999999999999,
+      "phosphorus": 425.2,
+      "potassium": 1542.6,
+      "riboflavin": 0.8105,
+      "selenium": 62.68,
+      "thiamin": 0.5127,
+      "vitamin_A": 6110.5,
+      "vitamin_B6": 1.8641999999999999,
+      "vitamin_B12": 5.406,
+      "vitamin_C": 61.25,
+      "zinc": 1.8550000000000002,
+      "caffiene": 0.0,
+      "vitamin_D": 0.0
+    }
+  },
+  {
+    "recipe_id": "m18",
+    "title": "Tonno e broccoli con riso",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "fish_tuna_light_canned_in_water_drained_solids",
+        "grams": 160
+      },
+      {
+        "food_key": "broccoli_raw",
+        "grams": 250
+      },
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 70
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "protein": 43.712,
+      "carbohydrates": 70.66799999999999,
+      "total_fat": 14.505,
+      "saturated_fat": 2.2247,
+      "caffiene": 0.0,
+      "cholesterol": 57.6,
+      "fiber": 8.95,
+      "folic_acid": 0.0,
+      "sodium": 482.8,
+      "calcium": 160.89999999999998,
+      "iron": 5.518,
+      "magnesium": 189.4,
+      "manganese": 3.1755,
+      "niacin": 21.378800000000002,
+      "phosphorus": 620.5,
+      "potassium": 1232.6,
+      "riboflavin": 0.49200000000000005,
+      "selenium": 135.59,
+      "thiamin": 0.5062,
+      "vitamin_A": 1648.7,
+      "vitamin_B6": 1.3042,
+      "vitamin_B12": 4.08,
+      "vitamin_C": 223.0,
+      "vitamin_D": 75.2,
+      "zinc": 3.5429999999999993,
+      "calories": 344.0
+    }
+  },
+  {
+    "recipe_id": "m19",
+    "title": "Insalatona pollo-avocado-spinaci",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chicken_broilers_or_fryers_breast_meat_and_skin_raw",
+        "grams": 160
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 100
+      },
+      {
+        "food_key": "new_zealand_spinach_raw",
+        "grams": 120
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 180
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 484.4,
+      "protein": 38.74400000000001,
+      "carbohydrates": 18.532,
+      "total_fat": 40.06,
+      "saturated_fat": 7.8515999999999995,
+      "caffiene": 0.0,
+      "cholesterol": 102.4,
+      "fiber": 10.66,
+      "folic_acid": 0.0,
+      "sodium": 273.0,
+      "calcium": 117.29999999999998,
+      "iron": 3.236,
+      "magnesium": 135.6,
+      "manganese": 1.1428,
+      "niacin": 19.26,
+      "phosphorus": 407.20000000000005,
+      "potassium": 1419.6999999999998,
+      "riboflavin": 0.45620000000000005,
+      "selenium": 27.8,
+      "thiamin": 0.2824,
+      "vitamin_A": 7058.200000000001,
+      "vitamin_B6": 1.6138,
+      "vitamin_B12": 0.544,
+      "vitamin_C": 70.66,
+      "vitamin_D": 25.6,
+      "zinc": 2.6820000000000004
+    }
+  },
+  {
+    "recipe_id": "m20",
+    "title": "Quinoa con lenticchie e pomodoro",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg",
+      "batch"
+    ],
+    "ingredients": [
+      {
+        "food_key": "quinoa_uncooked",
+        "grams": 65
+      },
+      {
+        "food_key": "lentils_mature_seeds_cooked_boiled_without_salt",
+        "grams": 220
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 220
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 534.0,
+      "protein": 30.958,
+      "carbohydrates": 94.54800000000002,
+      "total_fat": 15.2215,
+      "saturated_fat": 2.0179,
+      "cholesterol": 0.0,
+      "fiber": 24.570000000000004,
+      "folic_acid": 0.0,
+      "sodium": 18.849999999999998,
+      "calcium": 94.45,
+      "iron": 10.9465,
+      "magnesium": 231.45,
+      "manganese": 2.6590499999999997,
+      "niacin": 4.6268,
+      "phosphorus": 745.85,
+      "potassium": 1699.25,
+      "riboflavin": 0.4091,
+      "selenium": 11.685,
+      "thiamin": 0.6872000000000001,
+      "vitamin_A": 1859.3000000000002,
+      "vitamin_B6": 0.8841500000000001,
+      "vitamin_B12": 0.0,
+      "vitamin_D": 0.0,
+      "zinc": 5.183000000000001,
+      "caffiene": 0.0,
+      "vitamin_C": 33.44
+    }
+  },
+  {
+    "recipe_id": "m21",
+    "title": "Ceci e avocado con pomodori",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar",
+      "veg"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chickpeas_garbanzo_beans_bengal_gram_mature_seeds_cooked_boiled_without_salt",
+        "grams": 220
+      },
+      {
+        "food_key": "avocados_raw_all_commercial_varieties",
+        "grams": 90
+      },
+      {
+        "food_key": "tomatoes_red_ripe_raw_year_round_average",
+        "grams": 220
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 544.4,
+      "protein": 23.228,
+      "carbohydrates": 76.55900000000001,
+      "total_fat": 29.332000000000004,
+      "saturated_fat": 3.9476000000000004,
+      "caffiene": 0.0,
+      "cholesterol": 0.0,
+      "fiber": 25.39,
+      "folic_acid": 0.0,
+      "sodium": 32.900000000000006,
+      "calcium": 140.70000000000002,
+      "iron": 7.503000000000001,
+      "magnesium": 155.90000000000003,
+      "manganese": 2.6446000000000005,
+      "niacin": 4.0282,
+      "phosphorus": 469.20000000000005,
+      "potassium": 1598.2,
+      "riboflavin": 0.2974,
+      "selenium": 8.5,
+      "thiamin": 0.39690000000000003,
+      "vitamin_A": 2023.4,
+      "vitamin_B6": 0.7131000000000002,
+      "vitamin_B12": 0.0,
+      "vitamin_C": 42.0,
+      "vitamin_D": 0.0,
+      "zinc": 4.316000000000001
+    }
+  },
+  {
+    "recipe_id": "m22",
+    "title": "Pollo con riso e carote",
+    "meal_types": [
+      "lunch",
+      "dinner"
+    ],
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "no_refined_sugar"
+    ],
+    "ingredients": [
+      {
+        "food_key": "chicken_broilers_or_fryers_breast_meat_and_skin_raw",
+        "grams": 170
+      },
+      {
+        "food_key": "rice_brown_long_grain_raw",
+        "grams": 80
+      },
+      {
+        "food_key": "carrots_raw",
+        "grams": 220
+      },
+      {
+        "food_key": "oil_olive_salad_or_cooking",
+        "grams": 10
+      }
+    ],
+    "nutrients_per_serving": {
+      "calories": 678.6,
+      "protein": 43.842999999999996,
+      "carbohydrates": 82.868,
+      "total_fat": 28.589,
+      "saturated_fat": 6.4514000000000005,
+      "caffiene": 0.0,
+      "cholesterol": 108.8,
+      "fiber": 8.96,
+      "folic_acid": 0.0,
+      "sodium": 264.7,
+      "calcium": 109.80000000000001,
+      "iron": 3.1500000000000004,
+      "magnesium": 183.3,
+      "manganese": 3.3396000000000003,
+      "niacin": 23.079,
+      "phosphorus": 639.2,
+      "potassium": 1256.5,
+      "riboflavin": 0.34650000000000003,
+      "selenium": 47.16,
+      "thiamin": 0.5731,
+      "vitamin_A": 36894.3,
+      "vitamin_B6": 1.6118000000000001,
+      "vitamin_B12": 0.5780000000000001,
+      "vitamin_C": 12.980000000000002,
+      "vitamin_D": 27.2,
+      "zinc": 3.504
+    }
+  }
+]
